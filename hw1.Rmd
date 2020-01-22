@@ -1,0 +1,17 @@
+---
+title: 'Homework #1'
+author: "Connor Toliver; GitHub: connortoliver"
+date: "1/15/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Business Intelligence Developer
+A job I think is related to data science is a [**business intelligence developer**](https://www.tableau.com/learn/articles/business-intelligence). There are distinctions, but the two are closely related and often work alongside each other or in some cases fulfill the same roles. Business intelligence developers are usually on the more descriptive side of the data and help companies make business decisions based on findings from data. Still, business intelligence developers have to fulfill many functions as data scientists, such as wrangling and cleaning data, and perhaps most notably, data visualization. 
+
+![](https://hfweb-assets.s3.amazonaws.com/v2/images/bi/bi_banner.svg)
+
+I currently work remotely as a business intelligence developer intern in the data & analytics department at a trucking insurance company located in Nebraska. My department is split into two mini-departments—*business intelligence* and *predictive analytics*. Both departments fulfill some of the different functions that data scientists fulfill and are thus related to data science.
