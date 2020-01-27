@@ -1,9 +1,17 @@
 ---
 title: "Partner's File"
 output: html_document
+git hub username: haley22
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Haley Humphries github: haley22
+
+Added italicized word. 3f0e690
+
+I got it to work. 
+
+For some reason my homework 1 was still set to the original Rmd and not my edited Rmd with my answers.
